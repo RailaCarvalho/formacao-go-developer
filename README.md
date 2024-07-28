@@ -1,5 +1,5 @@
 # Formação Go Developer 👩‍💻
-Descrição 📒
+## Descrição 📒
 Repositório destinado á armazenar códigos e projetos da Formação Go Developer proposto pela empresa DIO.
 
 ## Sobre o Autor 👩‍💻
